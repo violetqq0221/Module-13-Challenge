@@ -16,4 +16,4 @@ In this assignment, creates a dashboard for Bars, Bubble and Gauge chart to visu
   * change the chose layout  
    ![fig](https://github.com/violetqq0221/Module-13-Challenge/blob/main/layout.PNG)    
    
-  These visual charts represents categorical OUT with horizontal bars let users more easy to understand the result. 
+  **These visual charts represents categorical OUT with horizontal bars let users more easy to understand the result.** 
